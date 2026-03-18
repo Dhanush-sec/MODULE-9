@@ -6,6 +6,7 @@ To write a Python class-based program that generates all even numbers between 20
 
 ## 🧠 ALGORITHM:
 
+
 1. **Start**
 2. Create a class named `program`
 3. Create variables `a`, `b`, and `c` to represent:
